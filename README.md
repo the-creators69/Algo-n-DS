@@ -12,7 +12,7 @@ a set of rules that precisely define a sequence of operations.
 ### Algorithms by Topic
 
 * **Math**
- *  [Bit Manipulation](Algorithms\Stage_1\BitManipulation\README(bits).md) - set/get/update/clear bits, multiplication/division by two, make negative etc.
+ *  [Bit Manipulation](Algorithms/Stage_1/BitManipulation/README(bits).md) - set/get/update/clear bits, multiplication/division by two, make negative etc.
  *  [Factorial](Algorithms\Stage_1\Factorial\README(fact).md) 
  *  [Fibonacci Number](Algorithms\Stage_1\Fibonacci\README(fib).md) - classic and closed-form versions
  *  [Least Common Multiple](Algorithms\Stage_1\LCM\README(LCM).md) (LCM)
