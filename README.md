@@ -12,18 +12,18 @@ a set of rules that precisely define a sequence of operations.
 ### Algorithms by Topic
 
 * **Math**
- *  [Bit Manipulation](src/algorithms/math/bits) - set/get/update/clear bits, multiplication/division by two, make negative etc.
- *  [Factorial](src/algorithms/math/factorial) 
- *  [Fibonacci Number](src/algorithms/math/fibonacci) - classic and closed-form versions
- *  [Least Common Multiple](src/algorithms/math/least-common-multiple) (LCM)
+ *  [Bit Manipulation](Algorithms\Stage_1\BitManipulation\README(bits).md) - set/get/update/clear bits, multiplication/division by two, make negative etc.
+ *  [Factorial](Algorithms\Stage_1\Factorial\README(fact).md) 
+ *  [Fibonacci Number](Algorithms\Stage_1\Fibonacci\README(fib).md) - classic and closed-form versions
+ *  [Least Common Multiple](Algorithms\Stage_1\LCM\README(LCM).md) (LCM)
  
 * **Searches**
-  *  [Linear Search](src/algorithms/search/linear-search)
-  *  [Jump Search](src/algorithms/search/jump-search) (or Block Search) - search in sorted array
-  *  [Binary Search](src/algorithms/search/binary-search) - search in sorted array
-  *  [Interpolation Search](src/algorithms/search/interpolation-search) - search in uniformly distributed sorted array
+  *  [Linear Search](Algorithms\Stage_1\LinearSearch\README(lin).md)
+  *  [Jump Search](Algorithms\Stage_1\JumpSearch\README(jump).md) (or Block Search) - search in sorted array
+  *  [Binary Search](Algorithms\Stage_1\BinarySearch\README(bin).md) - search in sorted array
+  *  [Interpolation Search](Algorithms\Stage_1\InterpolationSearch\README(inter).md) - search in uniformly distributed sorted array
   
- * **Sorting**
-  *  [Bubble Sort](src/algorithms/sorting/bubble-sort)
-  *  [Merge Sort](src/algorithms/sorting/merge-sort)
-  *  [Quicksort](src/algorithms/sorting/quick-sort) - in-place and non-in-place implementations
+* **Sorting**
+  *  [Bubble Sort](Algorithms\Stage_1\BubbleSort\README(bub).md)
+  *  [Merge Sort](Algorithms\Stage_1\MergeSort\README(merg).md)
+  *  [Quicksort](Algorithms\Stage_1\QuickSort\README(quic).md) - in-place and non-in-place implementations
